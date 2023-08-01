@@ -34,29 +34,19 @@
 
 ###
 
-<h4 align="center">Hello I'm matt, I make cool applications for fun</h4>
+<h4 align="center">Hello I'm matt and I make cool applications for fun</h4>
 
 ###
 
-<div align="left">
+<div styles="display: flex">
+  <h2>My Socials</h2>
   <a href="https://ko-fi.com/myspectacularballs" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
   </a>
   <a href="https://twitter.com/aDegenerateDev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31zujxr55r435j2jfsrzms3u3eza">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://www.reddit.com/user/MySpectacularBalls" target="_blank">
+    <img src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" width="40" height="40" alt="reddit logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/MySpectacularBalls/MySpectacularBalls/output/snake.svg" alt="Snake animation" />
-
-###
